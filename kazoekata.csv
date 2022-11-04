@@ -1,0 +1,344 @@
+used_for,value,counter,reading,read_key,usage_notes,priority,source,add_date,revision_date,also_used_for
+people,,人,nin,nin,,1,,2022-06-26,2022-07-15,person
+people,1,人,hitori,nin,,1,,2022-07-15,,person
+people,2,人,futari,nin,,1,,2022-07-15,,person
+customer,,名,mei,mei,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,"people,person"
+animal,,匹,*hiki,*hiki,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,"fish,insect,small bird"
+large animal,,頭,tou,tou,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,"elephant,whale,butterfly"
+fish,,尾,bi,bi,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,
+fish,,本,*hon,*hon,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,
+bird,,羽,wa,wa,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,
+shellfish,,個,ko,ko,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,
+thing,,個,ko,ko,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,"item,physical item"
+grain,,粒,-tsubu,-tsubu,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,"rice,barley,wheat,oat,pearl,pill,tablet,tear"
+long item,,本,*hon,*hon,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,"pole,clothesline,necktie,umbrella,chimney,scallion,green onion,spring onion"
+flat item,,枚,mai,mai,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,"map,inkstone,mirror,blackboard"
+flat item,,面,men,men,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,"map,inkstone,mirror,blackboard"
+bundle,,把,wa,wa,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,handful
+bundle,,束,-taba,-taba,,1,https://www.sanabo.com/kazoekata/kihon/,2022-06-26,,
+chained item,,連,ren,ren,,1,https://www.sanabo.com/kazoekata/kihon/,2022-07-04,,"neckless pearl,bead,item connected with straw"
+handheld tool,,丁,chou,chou,,1,https://www.sanabo.com/kazoekata/kihon/,2022-07-04,,"knife,hoe,scissor,scissors"
+handheld tool,,本,hon,hon,,1,https://www.sanabo.com/kazoekata/kihon/,2022-07-04,,"knife,hoe,scissor,scissors"
+machine,,台,dai,dai,,1,https://www.sanabo.com/kazoekata/kihon/,2022-07-04,,"appliance,equipment,tool,television,computer,electrical device"
+structure,,基,ki,ki,,1,https://www.sanabo.com/kazoekata/kihon/,2022-07-04,,"tower,gas tank,nuclear reactor,fixed structure"
+*,,つ,_tsu,_tsu,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,2022-07-15,
+object,,個,ko,ko,,1,https://www.tofugu.com/japanese/japanese-counter-ko/,2022-07-05,,physical thing
+empty container,,個,ko,ko,,1,https://www.tofugu.com/japanese/japanese-counter-ko/,2022-07-05,,
+extremely large object,,個,ko,ko,,1,https://www.tofugu.com/japanese/japanese-counter-ko/,2022-07-05,,"planet,meteorite,cloud,typhoon,tornado,hurricane"
+extremely small object,,個,ko,ko,,1,https://www.tofugu.com/japanese/japanese-counter-ko/,2022-07-05,,"cell,virus,bacteria,grain of pollen"
+bruise,,個,ko,ko,,1,https://www.tofugu.com/japanese/japanese-counter-ko/,2022-07-05,,"shadow,stain"
+month,,ヶ月,kagetsu,kagetsu,,1,https://www.tofugu.com/japanese/japanese-counter-ko/,2022-07-05,,
+stick-shaped item,,本,*hon,*hon,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"pen,pencil,asparagus,soda,dart,firewood,tree,bamboo,cord,thread,dumpling,water well,injection,folding fan,eel,tail,nail clipper,icicle"
+stick-shaped item,,本,*hon,*hon,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"fishing rod,film,chimney,tenugui,train,sash,telephone pole,cylindrical battery,bottle,tire,ribbon,cactus,soda can"
+flat item,,枚,mai,mai,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"paper,photo,raft,bath mat,shell,playing card,credit card,t-shirt,pants,clothes,cloth,wall,serving of soba,serving of gyoza"
+animal,,匹,*hiki,*hiki,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"dog,cat,monkey,fish,prawn,shrimp,lobster,wolf,rabbit,mosquito,shellfish,deer,worm,caterpillar,silkworm,earthworm"
+rabbit,,羽,wa,wa,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,
+animal,,匹,*hiki,*hiki,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"frog,snail,crab,tortoise,turtle,octopus,insect,dragonfly,sea otter,ogre,monster,naughty child,animal-like people,animal-like person"
+large animal,,頭 ,tou,tou,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"cow,horse,livestock,elephant,gorilla,whale,camel,tiger,animal for sale"
+bird,,羽,wa,wa,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"chicken,ostrich,peacock,penguin,origami crane"
+book,,冊,satsu,satsu,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"book,book collection,album,notebook,memo pad,musical score,catalog,magazine,dictionary,publication,document,booklet"
+machine,,台,dai,dai,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"playground slide,bed,table,couch,harp,piano,cello,car,truck,motor,washing machine,dryer,oven,air conditioner,microwave"
+machine,,台,dai,dai,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"cellphone,keyboard"
+minute,,分,*fun,*fun,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,
+day,1,日,ichinichi,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+day,2,日,futsuka,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+day,3,日,mikka,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+day,4,日,yokka,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+day,5,日,itsuka,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+day,6,日,muika,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+day,7,日,nanoka,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+day,8,日,youka,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+day,9,日,kokonoka,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+day,10,日,tooka,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+day,,日,nichi,nichi,,1,https://www.tofugu.com/japanese/japanese-counter-ka-nichi/,2022-07-05,,
+year,,年,nen,nen,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,
+time,,回,kai,kai,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"number of times,chance,opportunity,revolution"
+person,,人,nin,nin,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"people,human,angel,mermaid,humanoid,dear pet"
+hour,,時間,jikan,jikan,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,
+floor,,階,kai,kai,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,
+age,,歳,sai,sai,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"year of age, age in years"
+yen,,円,en,en,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,
+country,,箇国,kakoku,kakoku,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,individual country
+place,,箇所,kasho,kasho,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"spot,point,passage,part,typo,water supply point,movie theater,shopping mall,toilet,mosquito bite,scar,broken part,changed part,dangerous area"
+can,,缶,kan,kan,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"soda can,beer can,tuna can,bean can,milk can,spray can,paint can,tea leaf in tin"
+volume,,巻,kan,kan,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"book volume,part of series,scroll"
+song,,曲,kyoku,kyoku,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,music
+slice of food,,切れ,kire,kire,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"sliced piece of fish,sashimi,slice of meat,mochi,bread slice,cake slice,pizza slice,okonomiyaki slice,cut of cheese"
+bite,,口,-kuchi,-kuchi,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"bite of food,sip,sip of drink,sword,suspended temple bell,share of insurance"
+set,,組,-kumi,-kumi,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"pair,group,couple of lovers,earring pair,pair of gloves,pair of mittens,set of playing cards,suit set"
+matter,,件,ken,ken,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"case,proposal,suggestion,legislative bill,agenda item,project,plan,crime,incident,scandal,complaint,objection,contract,agreement"
+matter,,件,ken,ken,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"email,financing,loan,trouble,bankruptcy,page view,voice mail message"
+house,,軒,ken,ken,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"building,shop,restaurant,farm,factory,mailing address,warehouse,household,recipient,apartment building,apartment,hermitage,tenement"
+word,,語,go,go,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,
+school,,校,kou,kou,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"pre-school,college,university,proofreading correction"
+plate,1,皿,hitosara,sara,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"dish,lab dish,food on plate,food on dish,serving of cold soba"
+plate,2,皿,futasara,sara,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"dish,lab dish,food on plate,food on dish,serving of cold soba"
+plate,3,皿,misara,sara,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"dish,lab dish,food on plate,food on dish,serving of cold soba"
+plate,3,皿,sansara,sara,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"dish,lab dish,food on plate,food on dish,serving of cold soba"
+plate,,皿,sara,sara,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"dish,lab dish,food on plate,food on dish,serving of cold soba"
+game,,試合,shiai,shiai,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"sports game,match,sports match"
+product,1,品,hitoshina,-shina,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,2022-07-15,"dish of food,course dish,item"
+product,2,品,futashina,-shina,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,2022-07-15,"dish of food,course dish,item"
+product,,品,-shina,-shina,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,2022-07-15,"dish of food,course dish,item"
+product,,品,hin,hin,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"dish of food,course dish,item"
+company,,社,sha,sha,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"publisher,shrine"
+type,,種類,shurui,shurui,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"variety,kind"
+week,,週間,shuukan,shuukan,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,
+round,,周,shuu,shuu,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"circuit,lap,revolution,course"
+color,,色,shoku,shoku,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,colour
+seat,,席,seki,seki,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"party,banquet,performance,meeting"
+battle,,戦,sen,sen,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"war,match,fight,skirmish,sport fight,martial arts fight,video game match,game,chess match,shogi match"
+pair of shoes,,足,soku,soku,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"pair of socks,pair of stockings,pair of slippers,pair of geta,pair of clogs,pair of roller skates,pair of boots,sheets of dried squid"
+bundle,1,束,hitotaba,-taba,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,bunch
+bundle,2,束,futataba,-taba,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,bunch
+bundle,3,束,mitaba,-taba,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,bunch
+bundle,3,束,santaba,-taba,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,bunch
+bundle,,束,taba,-taba,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,bunch
+round items,,玉,-tama,-tama,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"ball,bead,testicle,pachinko ball,round fruit,peach,melon,watermelon,tomato,persimmon,round vegetable,onion,cabbahe,lettuce"
+round items,,玉,-tama,-tama,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"ball of noodle,barn of yarn,ball of wire"
+stair step,,段,dan,dan,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"shelf,cake tier,bunk bed level,drawer,rocket stage,rank,paragraph,column"
+clothes,,着,chaku,chaku,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"garment,coat,cloak,kimono,yukata,suit,raincoat,dress,skirt,jacket,swimsuit,costume,robe,suit of armor"
+document,,通,tsuu,tsuu,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"email,letter,comment,telegram,fax,answering machine message,job application,survey response,written postcard,greeting card,memo"
+document,,通,tsuu,tsuu,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"will,telegram,fax message,written contract,official paper,bill,witness report,invoice,driver’s license,passport,bankbook,report card"
+grain,,粒,-tsubu,-tsubu,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"manila clam,bean,pea,candy drop,umeboshi,teardrop,raindrop,water dop,caviar,pill,tablet,rice grain,raisin,blueberry,raspberry"
+grain,,粒,-tsubu,-tsubu,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"strawberry,blackberry,sand grain,ruby,stone,pebble,sea salt grain,seed,almond,nut"
+point,,点,ten,ten,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"score,dot,fulcrum,artwork,painting,sculpture,literature,film,game score,test score,accessory,curtain,furniture,vase,pottery,cloth"
+point,,点,ten,ten,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"stuffed animal,ring,carving,picture,drawing,portrait,novel,eye drop"
+degree,,度,do,do,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,
+bowlful,,杯,*hai,*hai,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"bowl of soup,cup of juice,glass of milk,mug of coffee,cupful,glassful,mugful"
+bowlful,,杯,*hai,*hai,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"squid,cuttlefish,crab,octopus,ship,battleship,yacht,boat"
+overnight,,泊,*haku,*haku,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"overnight stay,overnight rental"
+box,,箱,*-hako,*-hako,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,2022-07-15,"cardboard box,wooden box,lunchbox"
+bullet,,発,*hatsu,*hatsu,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"bullet mark,explosive,firework,shot,fart,punch,kick,bomb,cannon,missile,rocket,tennis shot,kendo attack,baseball hit,home run,sex,joke"
+second,,秒,byou,byou,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"angle,latitude,longitude"
+flight,,便,bin,bin,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"ship shipping out,bus trip,delivery,transportation instance"
+bag,,袋,-fukuro,-fukuro,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"sack,pouch,plastic bag,paper bag,shopping bag,garbage bag"
+room,,部屋,-heya,-heya,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"closet,bedroom,bathroom"
+step,,歩,*ho,*ho,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,step of progress
+person,,名,mei,mei,polite,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,people
+character,,文字,-moji,-moji,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,letter
+test question,,問,mon,mon,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"quiz question,quiz problem,exam question,textbook question"
+story,,話,wa,wa,,1,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"episode,manga chapter,narrative,myth,tale,legend"
+plan,,案,an,an,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"idea,project,strategy,scheme,plot,proposal,suggestion,concept"
+hospital,,院,in,in,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"clinic,temple,mosque,government house"
+station,,駅,-eki,-eki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"train station,bus station"
+branch,,枝,-eda,-eda,"with flowers, fruit, leaves",2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,
+zoo,,園,en,en,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"garden,theme park,farm,orchard,kindergarten,nursery school,preschool"
+fold,,折,-ori,-ori,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"ekiben,folded paper crane,box of food,box of sweets"
+fold,,折り,-ori,-ori,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"ekiben,folded paper crane,box of food,box of sweets"
+syllable,,音,on,on,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,music note
+lesson,,課,ka,ka,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"organization section,organisation section,department,division,team"
+sea,,海,kai,kai,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,ocean
+rank,,階級,kaikyuu,kaikyuu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"class,grade"
+electrical circuit,,回線,kaisen,kaisen,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"phone line,internet line,communication line,tv circuit,internet connection"
+kanji stroke,,画,kaku,kaku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"plot of land,division of land,block of land"
+broken piece,,片,-kake,-kake,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"clove of garlic,finger of ginger,piece of bread,apple piece"
+broken-off piece,,欠片,-kakera,-kakera,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"shard,slice of bread,garlic clove,piece of ginger,piece"
+basketful,,籠,-kago,-kago,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,bird cage
+lump,,塊,-katamari,-katamari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-05,,"ball,mass,meat chunk"
+river,,河川,kaken,kaken,,3,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+pixel,,画素,gazo,gazo,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+pixel,,ピクセル,pikuseru,pikuseru,,3,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+stump,,株,-kabu,-kabu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"plant,plant with root,tree stump,mushroom cluster,seedling,stock,stock certificate"
+win,,冠,kan,kan,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"victory,championship"
+sushi,,貫,kan,kan,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,nigiri
+gallery,,館,kan,kan,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"art gallery,museum,art museum,library,aquarium,photo studio"
+large construct,,基,ki,ki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"torii,airplane engine,wind power generator,goldola,sprinkler,ancient tomb,pyramid,tombstone,gravestone,coffin,statue,gate"
+large construct,,基,ki,ki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"pagoda,buddhist temple building,tower,stone lantern,street light,traffic light,lighthouse,bench,playground equipment"
+large construct,,基,ki,ki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"public toilet,house remains,oil tank,gas tank,turret,launch pad,pillar,bridge pier,dam,nuclear reactor,airship,airplane"
+large construct,,基,ki,ki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"helicopter,satellite,blimp,jet,hot air balloon,chimney,fireplace,air conditioner,bridge,kotatsu,fish fin,elevator,escalator,sculpture"
+airplane,,機,ki,ki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"airship,jet,blimp,hot air balloon,helicopter,guided missile,airplane crew"
+term,,期,ki,ki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"school term,terms of service,office term,stage,phase"
+item for visitor,,客,kyaku,kyaku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,item for guest
+long-legged item,,脚,kyaku,kyaku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"chair,table,desk,wine glass,horseshoe,leg,bench"
+rank,,級,kyuu,kyuu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"grade,cless,stone step,decapitated head"
+lightbulb,,球,kyuu,kyuu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"baseball pitch,flower bulb,golf ball,soccer ball,tennis ball,tennis shot,ping pong shot,volleyball,volleyball shot"
+verse,,行,gyou,gyou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"line of writing,notebook line,manuscript line,poem verse"
+shogi match,,局,kyoku,kyoku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"go match,sugoroku match,broadcasting station,post office"
+loaf of bread,,斤,kin,kin,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+karat,,金,kin,kin,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,carat
+haiku,,句,ku,ku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"expression,passage of writing,word,phrase"
+ward,,区,ku,ku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"plot of land,zone,constituency,race segment"
+plot of land,,区画,kukaku,kukaku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"plot of land,division of land"
+skewered food,,串,-kushi,-kushi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"skewered meat,skewered vegetable,food on skewer"
+habit,,癖,-kuse,-kuse,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,peculiarity
+troop,,軍,gun,gun,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,army group
+scenery,,景,kei,kei,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"view,scenic view,kabuki scene,noh scene,opera scene"
+digit,,桁,keta,keta,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,decimal place
+keyboard key,,鍵,ken,ken,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,piano key
+home,,戸,ko,ko,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"residential house,apartment unit,house for sale,house for rent"
+bank institution,,行,kou,kou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"group of people,party of people"
+clause,,項,kou,kou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"clause of article,clause of legal document,article of constitution,article of legal document,section of chapter"
+clause,,項,kou,kou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"paragraph of chapter,math equation term"
+cup of rice,,合,gou,gou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,tenth of a hiking trail
+word with someone,,声,-koe,-koe,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+cry,,声,sei,sei,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"sound,noise,word"
+country,,国,koku,koku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+word,,言,-koto,-koto,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"greeting word,instruction word,condolence message,memorial word,oath,note,short message,postscript,catchphrase,motto"
+scene,,齣,-koma,-koma,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"scene of play,scene of movie,scene of drama,class,lesson,lecture"
+work of art,,作,saku,saku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"novel,movie,film"
+strip of fish,,柵,-saku,-saku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"block of fish,row of stadium,row of concert hall,row of auditorium"
+strip of fish,,冊,-saku,-saku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"block of fish,row of stadium,row of concert hall,row of auditorium"
+stab,,刺し,sashi,sashi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"sting,thrust,pierce,prick,bite,skewered food"
+spoonful,,匙,-saji,-saji,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+pea shell,,莢,-saya,-saya,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"pea pod,pea hull,peanut with shell,shelled food"
+newspaper,,紙,shi,shi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+tooth,,歯 ,shi,shi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,teeth
+magazine,,誌,shi,shi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,tabloid
+letter,,字,ji,ji,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,character
+child,,児,ji,ji,in relation to their parent,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"children,kid"
+scroll,,軸,-jiku,-jiku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"rolled sheet,yarn roll,axis"
+dimension,,次元,jigen,jigen,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,level of person
+room,,室,shitsu,shitsu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+person conserned,,者,sha,sha,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"person concerned,person involved,people involved,baserunner,batter"
+type,,種,shu,shu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"kind,variety"
+overlapping layer,,重,juu,juu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"overlapping thing,repetitive action,line,meaning,life,lock,wrapping,payment,eye vision,chin,nationality"
+year passed,,周年,shuunen,shuunen,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+round,,巡,jun,jun,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"loop,tour,cycle,lap,revolution"
+daughter,2,女,jijo,jo,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+daughter,,女,jo,jo,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+large portion,,升,shou,shou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"amount of cooked rice,large bottle of sake"
+hospital bed,,床,shou,shou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"clinic bed,cot,raft,false tooth,false teeth"
+castle,,城,jou,jou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,palace
+tatami,,畳,jou,jou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,tatami mat
+medicine pill,,錠,jou,jou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"medicine tablet,medicine capsule"
+degree of relation,,親等,shintou,shintou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+diagram,,図,zu,zu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"illustration,chart,graph,sketch"
+scoop,,掬い,-sukui,-sukui,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"spoonful,ladle"
+arrow,,筋,-suji,-suji,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"straight road,ray of hope,kimono belt,kimono sash,straight rope,streak of clouds,smoke plume,spear,clear stream,wrinkle"
+arrow,,筋,-suji,-suji,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"crease,crack,scratch,hair,loose hair"
+large ship,,隻,seki,seki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"battleship,vessel"
+arrow,,隻,seki,seki,,4,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"bird,fish"
+household,,世帯,setai,setai,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,family
+passage,,節,setsu,setsu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"section,paragraph,verse,clause,sports period"
+theory,,説,setsu,setsu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"view,rumor,explanation,opinion"
+selection,,選,sen,sen,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"choice,pick"
+pair of chopsticks,,膳,zen,zen,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"bowl of rice,bowl of meat,unprocessed food"
+layer,,層,sou,sou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"cake layer,building floor,floor"
+bathtub,,槽,sou,sou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"water tank,fish tank,washing machine tub"
+boat,,艘,sou,sou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"kayak,sailboat,yacht"
+set of matching pieces,,揃い,-soroi,-soroi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"chopsticks,futon set,bedding set,suit,tea set,utensil set"
+buddhist statue,,尊,son,son,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"buddha statue,jizo statue"
+baseball hit,,打,da,da,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"golf stroke,tennis swing,table tennis swing,punch,hit"
+doll,,体,tai,tai,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"statue,unidentified corpse,carving,horse picture,clay figure,puppet,plush toy,stuffed animal,wax model,snowman,snowmen"
+doll,,体,tai,tai,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"chromosome,typeface,handwriting style"
+troop,,隊,tai,tai,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"corp,unit,party,expedition team,hospital unit"
+generation,,代,dai,dai,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"lifetime,decade,era,reign"
+title,,題,dai,dai,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"problem,question,rakugo story"
+table,,卓,taku,taku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"restaurant table,diner table,diging table,desk,mahjong table"
+barrel,,樽,-taru,-taru,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,keg
+bullet,,弾,dan,dan,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"event,project,plan,idea"
+troop,,団,dan,dan,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"group of people,orchestra,group of travelers,group of students,troupe"
+academic credit,,単位,tan’i,tan’i,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+phase,,段階,dankai,dankai,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"step of progress,stage,plan,negotiation,process,procedure,production,level"
+paragraph,,段落,danraku,danraku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,stage of tasks
+tofu,,丁,chou,chou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"tuna,ramen order,soba order,lively action,game,match,kitchen knife,scissors"
+knife,,挺,chou,chou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"kitchen knife,ax,saw,chisel,scissor,sickle,file,wrench,nail clipper,spear,lance,oar,spade,hoe,gun,pistol,rifle,guitar"
+knife,,挺,chou,chou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"shamisen,violin,palanquin,portable shrine,rickshaw,ink stick,candle,abacus"
+pair,,対,tsui,tsui,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"pair of stilts,pair of scrolls,pair of earrings,pair of flower offerings,pair of rice balls"
+handful,,掴み,-tsukami,-tsukami,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+wrapped item,,包み,-tsutsumi,-tsutsumi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"wrapped gift,wrapped sweet,envelope of money,individual package"
+set of coupons,,綴,-tsuduri,-tsuduri,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"set of discount tickets,set of meal vouchers,set of stamps"
+set of coupons,,綴り,-tsuduri,-tsuduri,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"set of discount tickets,set of meal vouchers,set of stamps"
+tsubo,,坪,-tsubo,-tsubo,”tsubo” as an unit of land size,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+tsubo,,壺,-tsubo,-tsubo,”tsubo” as a type of a jar,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+pinch,,摘み,-tsukami,-tsukami,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"pinch of salt,pinch of spices"
+martial arts technique,,手,te,te,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"shogi move,sumo trick,card game hand,mean,way,trick,traditional dance move,group,people in charge,person in charge"
+racing boat,,艇,tei,tei,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"raceboat,racing yacht,racing sailboat"
+liquid drop,,滴,teki,teki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"drop,drip"
+shop,,店,ten,ten,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"store,restaurant,diner,cafe,branch of company,chain of companies,store location"
+shop,,店舗,tenpo,tenpo,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"store,restaurant,diner,cafe,branch of company,chain of companies,store location"
+item volume,,斗,to,to,18.04 liters,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+light,,灯,tou,tou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"lamp,street lamp,street light,lightbulb,heater"
+baseball pitch,,投,tou,tou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"pitch,throw,baseball throw,bowl,fishing cast,javelin throw,shot put throw,discus throw"
+island,,島,tou,tou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+baseball steal,,盗,tou,tou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+tower,,塔,tou,tou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"steeple,tall monument,pagoda,stupa"
+building,,棟,tou,tou,buildings that humans do not live in,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"house,tenement,warehouse,factory,garage,storehouse,outhouse,hut,shed"
+building,,棟,-mune,-mune,buildings that humans do not live in,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"house,tenement,warehouse,factory,garage,storehouse,outhouse,hut,shed"
+hot spring,,湯,tou,tou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"hot spring resort,onsen"
+hot spring,,湯,yu,yu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"hot spring resort,onsen"
+chapel,,堂,dou,dou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"temple,shrine,hall,lecture hall,auditorium,church,cathedral"
+method,,通り,toori,toori,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"way,procedure"
+nabe,,鍋,-nabe,-nabe,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,nabe pot
+son,2,男,jinan,nan,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+son,,男,nan,nan,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+handful,,握り,-nigiri,-nigiri,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+wave,,波 ,ha,ha,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"tsunami,ripple,radio wave,radio signal,air raid,demonstration,protest,crowd"
+group,,派,ha,ha,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"faction,denomination,school,political party,buddhist sect"
+multiple,,倍,bai,bai,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+beat,,拍,haku,haku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"musical time,mora"
+brush stroke,,刷毛,-hake,-hake,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+horse length,,馬身,bashin,bashin,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+roe sack,,腹,-hara,-hara,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,clutch of eggs
+stitch,,針,-hari,-hari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"seam,suture"
+spreadable object,,張,-hari,-hari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"tent,curtain,banner,mosquito net,paper lantern,instrument string,bowstring,bow,pavilion,bamboo screen"
+crime,,犯,han,han,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"criminal record,jail record,prison record"
+edition,,版,han,han,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"impression,printing,issue"
+group,,班,han,han,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,squad
+spot on fur,,斑,han,han,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+night,,晩,ban,ban,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+fish,,尾,bi,bi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"shrimp,prawn,crab,crayfish,lobster"
+signature,,筆,hitsu,hitsu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"message,book,brush stroke,calligraphy,calligraphy stroke,stroke"
+plot of land,,筆,hitsu,hitsu,,3,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,division of land
+musical time,,拍子,hyoushi,hyoushi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,beat
+glass bottle,,瓶,bin,bin,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"glass jar,thermos,phial,vial,decanter,flagon"
+number of ingredient,,品目,hinmoku,hinmoku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"item,variety of dishes,type of product,type of meal,type of exhibit"
+division,,部,bu,bu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"copy of book,copy of magazine,copy of document,department,part of play,part of report,book in series,play in series"
+envelope of money,,封,fuu,fuu,,4,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"envelope of official letters,sealed will"
+dose,,服,fuku,fuku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"dose of medicine,sip of tea,puff of cigarette,rest"
+bunch,,房,-fusa,-fusa,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"tuft,fringe,orange segment,tangerine segment"
+bamboo joint,,節,-fushi,-fushi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"tree knot,part of poem,stage of life,season"
+buddha statue,,仏,butsu,butsu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+brush stroke,,筆,-fude,-fude,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+boat,,舟,-fune,-fune,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,boat-shaped dishes of food
+swing,,振り,-furi,-furi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"sword swing,golf swing,sprinkle of spice,drizzle of sauce,wag,tail wag,shake,shake of cocktail,shake of bottle"
+sentence,,文,bun,bun,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+phrase,,文節,bunsetsu,bunsetsu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,clause
+side of polygon,,辺,hen,hen,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"side,edge,border,table edge,tatami mattress border,carpet border"
+action,,遍,hen,hen,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"deed,experience"
+poem,,編,hen,hen,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"essay,novel,part of story,academic paper"
+poem,,篇,hen,hen,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"essay,novel,part of story,academic paper"
+petal,,弁,ben,ben,petals still attached to a flower,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+bag of powdered medicine,,包,hou,hou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,bag of granulated medicine
+steep mountain,,峰,hou,hou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,pointed mountain
+steep mountain,,峰,-mine,-mine,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,pointed mountain
+news,,報,hou,hou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"report,information,update"
+tatami room,,間,-ma,-ma,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,room
+number of wraps,,巻,-maki,-maki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"bandage,hair curl,clock wind,rope coil,fishing line reel,roll of tape"
+number of wraps,,巻き,-maki,-maki,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"bandage,hair curl,clock wind,rope coil,fishing line reel,roll of tape"
+act,,幕,-maku,-maku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,memorable moment
+square on paper,,升,-masu,-masu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"box on paper,blank space,masu cup"
+square on paper,,枡,-masu,-masu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"box on paper,blank space,masu cup"
+round,1,回り,hitomawari,mawari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"circuit,lap,revolution"
+round,2,回り,futamawari,mawari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"circuit,lap,revolution"
+round,3,回り,mimawari,mawari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"circuit,lap,revolution"
+round,1,廻り,hitomawari,mawari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"circuit,lap,revolution"
+round,2,廻り,futamawari,mawari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"circuit,lap,revolution"
+round,3,廻り,mimawari,mawari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"circuit,lap,revolution"
+round,1,周り,hitomawari,mawari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"circuit,lap,revolution"
+round,2,周り,futamawari,mawari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"circuit,lap,revolution"
+round,3,周り,mimawari,mawari,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"circuit,lap,revolution"
+seam,,目,-me,-me,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"seam,suture,stitch,mesh,manuscript square,notebook square,pip,look,glance"
+surface,,面,men,men,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"newspaper page,monitor,digital sign,game board,video game stage,sports field,rink,ring,field,mask,abacus,binocular"
+surface,,面,men,men,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"inkstone,traditional instrument,folding fan,framed painting"
+pile,,盛,-mori,-mori,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"heap,pile of food,bowl of food"
+pile,,盛り,-mori,-mori,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"heap,pile of food,bowl of food"
+night,,夜,ya,ya,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+mountain,,山,-yama,-yama,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"pile,mound"
+wing,,翼,yoku,yoku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"bird wing,airplane wing,bird,role,spot,post"
+serving of food,,装い,-yosoi,-yosoi,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"serving,set of clothes,set of costumes,set of furniture"
+train car,,両,ryou,ryou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"horse carriage,horse cart,horse wagon"
+circle,,輪,rin,rin,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"ring,hoop,wheel,flower"
+baseball base,,塁,rui,rui,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+bow,,礼,rei,rei,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,nod
+mountain range,,嶺,rei,rei,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+mountain range,,嶺,ryou,ryou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+line,,列,retsu,retsu,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"queue,row of seats"
+strung item,,連,ren,ren,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"necklace pearl,bead,dried octopus,sausage link,gacha roll"
+year spent studying after failing entrance exam,,浪,rou,rou,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+train line,,路線,rosen,rosen,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"bus line,bus route"
+bunch,,把,wa,wa,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,bundle
+frame,,枠,-waku,-waku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"window frame,box on paper,border on paper,job position,position,time slot"
+horse racing gate,,枠,waku,waku,,2,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,
+bowlful,,椀,-wan,-wan,,3,https://www.tofugu.com/japanese/japanese-counters-list/,2022-07-06,,"bowl of soup,bowl of meal,bowl of rice"
