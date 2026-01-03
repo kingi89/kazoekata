@@ -9,7 +9,7 @@ The main database file is a CSV (comma-separated values) file in UTF-8. It conta
 ### Columns
 
 * `used_for`: **Main usage for the counter.** Mandatory. The term should be in singular form, lower-case, and in American English. Example: *bird*.
-* `value`: **Explicit count.** Optional. If empty, it is assumed that the counter can be used for any number of items of this type, and that the reading is for the general case. If given, the reading in this row is only valid for the value. Example: *1*.`
+* `value`: **Explicit count.** Optional. If empty, it is assumed that the counter can be used for any number of items of this type, and that the reading is for the general case. If given, the reading in this row is only valid for the value. Example: *1*.
 * `counter`: **Counter character(s)**. Mandatory. The counter ("suffix") itself in Japanese. Example: *回り*.
 * `reading`: **Reading**. Mandatory. For explicit/irregular counts (i.e. `value` not empty), the full reading for both the numerical value and counter together. For general reading (i.e. `value` empty), this must be identical to the `read_key`. Example: *hitori*.
 * `read_key`: **General reading specifier**. Mandatory. This value must be identical for all readings (=rows) of the same counter (for different counts). See below for syntax. Example: *-tsubu*.
