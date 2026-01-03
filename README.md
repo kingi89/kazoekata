@@ -24,15 +24,22 @@ The main database file is a CSV (comma-separated values) file in UTF-8. It conta
 
 The reading is written in Latin characters using the modified Hepburn romanization.
 
-For regular (not specific to certain value) reading, both the `reading` and `read_key` values correspond to the reading of the counter itself only. For example, *mai* for *枚*. The reading is prefixed with one or more of the following to signal the "logic" of the general reading:
+For regular (not specific to certain value) reading, both the `reading` and `read_key` values correspond to the reading of the counter itself only. For example, *mai* for *枚*. The reading may be start either with a *Rendaku* prefix, *Number system* prefix, both, or none. The prefixes may be in either order. If the prefix is missing, it is left to the implementation to determine.
+
+#### Rendaku prefix ####
 
 * `*`: The reading for the counter undergoes a *rendaku* transformation. For example, `*hon` -> *ippon*, *nihon*, etc.
+* `!`: The reading for the counter does not undergo a *rendaku* transformation.
+
+#### Number system prefix ####
+
 * `-`: For one or two items, the traditional Japanese wago numbers (hito-, futa-) are used instead of the Sino-Japanese kango numbers (ichi, ni).
 * `_`: For any number of items, the wago numbers are used.
+* `=`: For any number of items, the Sino-Japanese kango numbers are used.
 
-`-` and `_` are mutually exclusive, but can still coexist with the `*` prefix. The prefixes can be in any relative order.
+#### Value-specific readings ####
 
-For `reading` column of an irregular reading, the value is a full reading of both the count and the counter. For example *futsuka* for *2日*. `read_key` for the irregular readings works the same way as it does for regular readings.
+For `reading` column of an irregular reading, the value is a full reading of both the count and the counter, and it doesn't include rendaku or number system prefixes. For example *futsuka* for *2日*. `read_key` for the irregular readings works the same way as it does for regular readings.
 
 ### Irregular counters ###
 
