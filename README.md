@@ -28,14 +28,19 @@ For regular (not specific to certain value) reading, both the `reading` and `rea
 
 #### Rendaku prefix ####
 
-* `*`: The reading for the counter undergoes a *rendaku* transformation. For example, `*hon` -> *ippon*, *nihon*, etc.
+* *none*: Whether the counter undergoes a *rendaku* transformation or not is not specified.
+* `*`: The reading for the counter undergoes a *rendaku* transformation. For example, `*hon` -> *ippon*, *nihon*, etc. This prefix can also be augmented with a mechanism specifying parameter:
+	- `*1`: After number 3, counter starts with a *p* sound. Example: `*1hatsu` -> (*ippatsu*, *nihatsu*,) *sanpatsu*.
+	- `*2`: After number 3, counter starts with a *b* sound. Example: `*2hai` -> (*ippai*, *nihai*), *sanbai*.
 * `!`: The reading for the counter does not undergo a *rendaku* transformation.
 
 #### Number system prefix ####
 
-* `-`: For one or two items, the traditional Japanese wago numbers (hito-, futa-) are used instead of the Sino-Japanese kango numbers (ichi, ni).
-* `_`: For any number of items, the wago numbers are used.
-* `=`: For any number of items, the Sino-Japanese kango numbers are used.
+* *none*: The number system(s) to use is not specified.
+* `=`: For any number of items, the Sino-Japanese kango numbers (*ichi*, *ni*, *san*, ...) are used.
+* `_`: For any number of items, the traditional Japanese wago numbers (*hito*, *futa*, *mi*, ...) are used.
+* `-`: For one or two items, the traditional Japanese wago numbers are used. For other number of items, the Sino-Japanese kango numbers are used.
+* `#`: For one, two or three items, the traditional Japanese wago numbers are used. For other number of items, the Sino-Japanese kango numbers are used.
 
 #### Value-specific readings ####
 
