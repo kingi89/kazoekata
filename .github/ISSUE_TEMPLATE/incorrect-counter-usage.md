@@ -2,10 +2,14 @@
 name: Incorrect counter usage
 about: When kazoekata.jp displays an incorrect counter for usage
 title: "[WRONGCOUNT]"
-labels: ''
+labels: 'bug, wrong-counter'
 assignees: ''
 
 ---
+
+> [!NOTE]
+> This issue tracker is for **data errors** (e.g., wrong counters, incorrect readings) only.
+> For UI bugs or other application-related issues, please email **kazoekata.maintainers(at)kingi89.fi**.
 
 ## Use this template for example when ##
 
@@ -14,8 +18,8 @@ assignees: ''
 
 ## Mistake details
 
-* Counter identifier (see the "Is this incorrect?" dialog): 
-* Database version (see the "About" dialog): 
-* Counter: 
-* Inappropriate usage: 
-* Appropriate counter for usage:
+* **Counter identifier (see the "Is this incorrect?" dialog):** 
+* **Database version (see the "About" dialog)**: (e.g., 2.018)
+* **Counter:** (e.g., 棟)
+* **Inappropriate usage:** (e.g., dog)
+* **Appropriate counter for usage:** (e.g., 匹)
